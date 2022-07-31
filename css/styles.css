@@ -29,6 +29,7 @@ body{
   line-height: 1.75;
   background-color: #fff;
   color: var(--text-color);
+  white-space: nowrap;
 }
 
 img{
@@ -83,6 +84,7 @@ img{
 }
 
 .site-header-logo-link {
+  flex-shrink: 0;
   display: flex;
   text-decoration: none;
 }
@@ -131,6 +133,28 @@ img{
 
 .sitenav-link:active{
   opacity: 0.6;
+}
+
+
+/* HERO */
+
+.hero {
+}
+.hero-container {
+}
+.container {
+}
+.hero-info-wrapper {
+}
+.hero-heading {
+}
+.hero-text {
+}
+.button {
+}
+.button-green {
+}
+.hero-img {
 }
 
 
